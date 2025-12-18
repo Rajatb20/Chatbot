@@ -144,15 +144,7 @@ Create a feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-👨‍💻 About the Author
-@Rajatb20
 
-🎓 MTech Data Science Student
-🌱 Passionate about AI and conversational interfaces
-💞️ Open to collaborating on Python and AI projects
-📫 Feel free to reach out for collaboration!
-📄 License
-This project is open source and available for educational and commercial purposes.
 
 🙏 Acknowledgments
 Rasa for the amazing conversational AI framework
